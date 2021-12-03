@@ -44,6 +44,10 @@ def apa102( clock_pin, data_pin, colors ):
     #    eerste een byte met allemaal enen
     #    dan de 3 bytes met de kleurwaarden
     # zend nog 4 bytes, maar nu met allemaal enen
+    
+
+
+    # puur om te clonen naar mijn eigen github
 
 blue = [ 8, 0, 0 ]
 green = [ 0, 255, 0 ]
